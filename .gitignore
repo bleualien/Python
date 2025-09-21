@@ -1,0 +1,9 @@
+# Ignore large dataset
+3.Product Recomendation Sys/data/products.csv
+3.Product Recomendation Sys/data/cleaned_data.json
+3.Product Recomendation Sys/.env
+
+4.Student Scores dataset/student-scores.csv
+4.Student Scores dataset/predicted_marks_user.csv
+
+5.Study Hour Prediction/students.csv

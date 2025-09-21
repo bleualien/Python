@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pandas
+openai
+#venv uses gareko xa
